@@ -22,12 +22,20 @@ Java-based e-commerce system supporting:
 
 ## Output Sample
 Shipment notice
-
 2x Cheese 400g
-
 1x Biscuits 700g
+3x TV 30000g
+Total package weight 31.1kg
 
-...
+Checkout receipt
+2x Cheese 200
+1x Biscuits 150
+3x TV 15000
+1x ScratchCard 50
+Subtotal 15400
+Shipping 30
+Amount 15430
+Remaining balance 4570
 
 ## Class Structure
 
