@@ -1,4 +1,4 @@
-# Fawry E-Commerce System Challenge
+# Fawry E-Commerce System Challenge Internship
 
 ## Description
 Java-based e-commerce system supporting:
@@ -25,3 +25,18 @@ Shipment notice
 2x Cheese 400g
 1x Biscuits 700g
 ...
+
+## Class Structure
+
+1. `Product.java` – Base class for all products
+2. `Shippable.java` – Interface for shippable products
+3. `ExpiringProduct.java` – Products with expiry
+4. `ExpiringShipProduct.java` – Expiring + Shippable
+5. `ShippingProduct.java` – Shippable only
+6. `Customer.java` – Customer details and balance
+7. `Cart.java` – Shopping cart
+8. `CheckoutService.java` – Main business logic
+9. `ShippingService.java` – Handles logistics
+10. `Main.java` – Entry point with test case
+
+
