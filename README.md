@@ -22,15 +22,17 @@ Java-based e-commerce system supporting:
 
 ## Class Structure
 
-1. `Product.java` – Base class for all products
-2. `Shippable.java` – Interface for shippable products
-3. `ExpiringProduct.java` – Products with expiry
-4. `ExpiringShipProduct.java` – Expiring + Shippable
-5. `ShippingProduct.java` – Shippable only
-6. `Customer.java` – Customer details and balance
-7. `Cart.java` – Shopping cart
-8. `CheckoutService.java` – Main business logic
-9. `ShippingService.java` – Handles logistics
-10. `Main.java` – Entry point with test case
+| Class/File              | Responsibility                                       |
+|------------------------|------------------------------------------------------|
+| `Product.java`          | Base class with name, price, quantity               |
+| `Shippable.java`        | Interface for products requiring shipping           |
+| `ExpiringProduct.java`  | Products with an expiry date                        |
+| `ExpiringShipProduct.java` | Perishable & shippable product class             |
+| `ShippingProduct.java`  | Non-expiring shippable product                      |
+| `Cart.java`             | Holds cart items with validation logic              |
+| `Customer.java`         | Holds customer name and balance                     |
+| `CheckoutService.java`  | Processes cart, validates rules, and prints receipt |
+| `ShippingService.java`  | Calculates shipping and prints shipping notice      |
+| `Main.java`             | Sample test case with valid and edge scenarios      |
 
 
