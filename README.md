@@ -20,7 +20,6 @@ Java-based e-commerce system supporting:
 2. Run the `Main.java` file
 3. Check console output
 
-## Output Sample
 Shipment notice
 2x Cheese 400g
 1x Biscuits 700g
@@ -37,6 +36,7 @@ Subtotal 15400
 Shipping 30
 Amount 15430
 Remaining balance 4570
+
 
 ## Class Structure
 
