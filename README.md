@@ -22,9 +22,11 @@ Java-based e-commerce system supporting:
 
 ## Output Sample
 Shipment notice
+
 2x Cheese 400g
 
 1x Biscuits 700g
+
 ...
 
 ## Class Structure
