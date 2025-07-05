@@ -1,4 +1,4 @@
-# Fawry E-Commerce System Challenge Internship
+# Fawry Internship E-Commerce System Challenge
 
 ## Description
 Java-based e-commerce system supporting:
