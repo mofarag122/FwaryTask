@@ -32,6 +32,7 @@ Checkout receipt
 1x Biscuits 150
 3x TV 15000
 1x ScratchCard 50
+
 Subtotal 15400
 Shipping 30
 Amount 15430
