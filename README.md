@@ -14,6 +14,11 @@ Java-based e-commerce system supporting:
 - Insufficient balance check
 - ShippingService interface and implementation
 - Clear console output matching test case format
+## Sample Output Screenshot
+![image](https://github.com/user-attachments/assets/ae5f068d-44cb-46e1-ae95-e98df2573539)
+![image](https://github.com/user-attachments/assets/64d21e8c-fe66-4520-9074-a1f028fde2cc)
+
+
 
 ## How to Run
 1. Open the project in IntelliJ IDEA
